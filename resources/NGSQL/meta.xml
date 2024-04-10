@@ -15,7 +15,7 @@
 	<settings>
 		<setting 
 			name="CONNECTION_TYPE" 
-			value="mysql" 
+			value="sqlite" 
 			accept="mysql, sqlite" 
 			description="MySQL or SQLite connection for you database" />
 		
